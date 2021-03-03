@@ -26,3 +26,8 @@ Apart from implementing the problem statement, we added a certain features to in
  - QR - scan for product information and adds it to the personal notes.
  - OCR -scan the products without QR code in English, gets added to the personal notes directly.
  - PERSONAL NOTES - farmer gets to edit information about the scanned items like quantity/ brand name, keep track of his expenditure.
+ 
+ 
+![1](https://user-images.githubusercontent.com/64473654/109850908-0adbdc00-7c79-11eb-906f-69e8e75a4f4d.png)
+
+![2](https://user-images.githubusercontent.com/64473654/109850924-10d1bd00-7c79-11eb-9568-14629cfa1fe0.png)
